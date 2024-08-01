@@ -23,98 +23,105 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/jradmin.png",
+            "file": "minecraft:ranks/headmod.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/mod.png",
+            "file": "minecraft:ranks/srmod.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/helperbyrg.png",
+            "file": "minecraft:ranks/mod.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/demigod.png",
+            "file": "minecraft:ranks/jrmod.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/supporter.png",
+            "file": "minecraft:ranks/helperbyrg.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/vipbyrg.png",
+            "file": "minecraft:ranks/mediabyrg.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/memberbyrg.png",
+            "file": "minecraft:ranks/demigod.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/legendary.png",
+            "file": "minecraft:ranks/supporter.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/armor.png",
+            "file": "minecraft:ranks/vipbyrg.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/magic.png",
+            "file": "minecraft:ranks/player.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/weapon.png",
+            "file": "minecraft:ranks/legendary.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/mediabyrg.png",
+            "file": "minecraft:ranks/armor.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/invite.png",
+            "file": "minecraft:ranks/magic.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/jrmod.png",
+            "file": "minecraft:ranks/weapon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/invite.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
@@ -124,7 +131,7 @@
             "file": "minecraft:ranks/common.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         }
     ]
 }
